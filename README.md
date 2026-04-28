@@ -1,4 +1,4 @@
-# Romaji-English-RPA
+# Romaji-English-IPA
 （整活）英语罗马字音标，更适合中国人的英语发音学习工具
 
 ## 简介
